@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://zhimengguo@121.48.165.6:12315/home/zhimengguo/anaconda3/envs/pytorch/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/zhimengguo/Graph_Classification_Transfer-master/Graph_Classification_Transfer-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
